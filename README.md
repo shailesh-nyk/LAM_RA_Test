@@ -50,13 +50,13 @@ You will find 3 folders inside the root project folder which will be created aft
 
 1. Client will run on http://localhost:3000 by default.
 2. Student registration details page is on '/studentlist' route
-..* This page will display the details from the data we previously loaded into SOLR DB
-..* Data table has pagination, search and sort column feature
+... * This page will display the details from the data we previously loaded into SOLR DB
+... * Data table has pagination, search and sort column feature
 3. Service monitoring page is on '/monitor' route
-..* You can see services and their status in different cards
-..* Start/Stop buttons to start or stop service alternatively
-..* When service is running, there's a info button which will give some details about the running service
-..* There's a log button which shows the terminal logs provided the service was started from the client and not externally.
+... * You can see services and their status in different cards
+... * Start/Stop buttons to start or stop service alternatively
+... * When service is running, there's a info button which will give some details about the running service
+... * There's a log button which shows the terminal logs provided the service was started from the client and not externally.
 
 ### 5. Testing
 
