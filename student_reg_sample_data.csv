@@ -1,0 +1,301 @@
+﻿id,full_name,student_id,email,address,city,zipcode,phone,age,university,category
+1,Dante Howell,B5A3CF4D-72BD-92B1-37F5-E20FB6F3AA42,ac.fermentum.vel@sedfacilisis.org,3015 Suspendisse Ave,MabomprŽ,61974,1-439-879-0820,26,"University of California, Davis",Entrepreneurship
+2,Grant Ellison,93CC1225-2776-0004-88C7-4B2B6B120A84,turpis.In.condimentum@nonenim.net,889-6495 Erat. Road,Vigo,27669,673-3247,24,"University of California, Davis",Network Security
+3,Jonas Knight,A755D070-54BE-E531-8E19-F6DE655593BC,sit@semper.net,1857 In Avenue,Rio Verde,19498,1-104-408-3068,18,"California State University, Bakersfield",Web Development
+4,Lyle Tyler,54D12C1C-FB4B-7581-CE58-F8168F53FDAA,Nullam.lobortis.quam@Duisacarcu.com,"P.O. Box 415, 7293 Vel, Rd.",Vandoeuvre-lès-Nancy,87249,425-9161,18,"University of California, Riverside",Web Development
+5,Harrison Carey,62651842-B468-9D9E-F805-3F77A2DE9704,elit@Suspendisse.com,3264 Molestie Ave,Brussegem,59937,259-4968,30,"California State University, Fullerton",Web Development
+6,Rigel Small,BB2A20E7-DD55-5A23-B0DF-36E75192EACD,non.cursus.non@dolor.com,572-5639 Phasellus Rd.,Schwäbisch Gmünd,67944,1-496-278-9122,22,"University of California, Riverside",Network Security
+7,Alexander Holland,7D16F300-7545-9DFB-72EA-389840D2BB4B,pharetra.sed@Curabituregestasnunc.co.uk,Ap #839-9163 Fusce St.,Nevers,27141,356-4619,21,"University of California, Santa Cruz",Network Security
+8,Lionel Dixon,256160EC-D376-C9A4-65EE-2AC754A80626,Donec@erosnec.ca,"Ap #889-5445 Vel, Ave",Kalken,31868,1-998-845-2764,30,"California State University, Fullerton",Entrepreneurship
+9,Bernard Lindsay,47DF6654-81BF-D357-E777-FB64FE6CCBEF,arcu@pellentesque.com,525-6131 Elit Rd.,Uddevalla,31537,1-143-997-5338,21,San Jose State University,Embedded Software
+10,Kevin Mclaughlin,33886FFF-04C6-1E68-C38E-3B9DC99CD93F,augue.porttitor.interdum@et.co.uk,7064 Lacus. Street,Belgrave,53775,975-7433,21,San Francisco State University,Machine Learning
+11,Uriel Sampson,E388FFD4-EB8E-7F24-87F2-7BA46D44F124,euismod@sapien.net,9307 Et St.,Borgomasino,14867,1-729-820-6787,23,San Jose State University,Machine Learning
+12,Lamar Sargent,3D8D1331-1878-DF5E-7963-42ED3EEB4127,Nunc@urnasuscipitnonummy.org,"P.O. Box 725, 8518 Consectetuer Av.",Etroubles,86145,1-404-978-9467,23,San Francisco State University,Embedded Software
+13,Malachi Irwin,0B006B4D-7D6E-5EFE-FADD-477E7D1BCBDD,fermentum.vel@quisurnaNunc.com,6230 Dapibus Road,Sachs Harbour,75382,1-384-809-5565,17,"University of California, Davis",Network Security
+14,Theodore Holland,57033276-1F3E-587B-536C-ECAC90AE3B8E,Ut.sagittis@Phasellusdapibus.net,8004 Lobortis. Rd.,Carleton,27181,959-7653,21,"California State University, Bakersfield",Network Security
+15,Raymond Mayo,5A25C63B-0BE7-9A86-F6CC-F102A4F3D781,convallis.erat.eget@sempertellusid.net,634-5977 Eu Rd.,Hofheim am Taunus,46941,1-936-471-1478,21,"University of California, Santa Cruz",Network Security
+16,Acton Avila,99E56EA9-FC71-4A19-EC15-13FC3C48360D,metus.Aliquam.erat@ornarefacilisiseget.ca,"6048 Sed, Street",Montemesola,47693,763-5951,27,"University of California, Riverside",Network Security
+17,Emery Conner,2296AFED-8531-0EF6-223D-76B9A9538616,pellentesque.eget.dictum@nulla.com,896-1607 Fermentum Rd.,Colombo,45824,659-8421,20,San Francisco State University,Network Security
+18,Hector Eaton,7FD38D3C-D6E7-350F-F969-B109ABBF5993,Phasellus.at.augue@Praesent.ca,Ap #239-5726 Egestas Av.,Chekhov,52096,379-4001,17,Stanford,Network Security
+19,Vance Summers,38372422-4CA5-5748-ECDA-6C585D2F7A80,tempor.erat@metusurnaconvallis.co.uk,"P.O. Box 897, 3632 Enim. Rd.",San Diego,49026,1-624-631-1720,24,San Francisco State University,Web Development
+20,Levi Hill,C11B40D1-34CE-DE4A-7D23-869CBF24A8B0,et@Suspendisse.edu,"P.O. Box 679, 5767 Lectus. Rd.",Bingen,15112,1-703-563-1019,19,"University of California, Davis",Embedded Software
+21,Lucian Dominguez,EC72EEA6-DA19-75FA-AFEE-FD2C313A5926,risus.Nunc.ac@faucibusorci.ca,845-5968 Lectus Rd.,Alloa,59597,1-747-707-8488,22,"California State University, Bakersfield",Entrepreneurship
+22,Jeremy Talley,B2DD84F4-5235-0F5F-FD59-34F6494CFA87,dui.nec.tempus@uterosnon.ca,"969-2888 Nunc, Rd.",Taunton,59559,1-984-740-7523,21,"University of California, Riverside",Web Development
+23,Colby Combs,B201AF7D-656E-F134-69DA-C167842115B9,bibendum.fermentum.metus@auctorullamcorpernisl.net,3752 Justo. Ave,Gary,34730,768-5142,17,"University of California, Santa Cruz",Machine Learning
+24,Brian Mendoza,B53690DA-EC30-765C-A9CD-8623B6E2583A,adipiscing.Mauris.molestie@vel.net,"785-8038 Scelerisque, Rd.",Canora,76455,1-314-709-3602,29,San Jose State University,Network Security
+25,Ryan Tanner,56A7DE79-9B95-6D2F-3E0F-922A88423AA4,facilisis.vitae.orci@eusem.com,9890 Nam St.,Toruń,29080,1-817-656-7194,18,"University of California, Santa Cruz",Web Development
+26,Colin Velez,8CC7668A-64AB-1BA3-7F4A-153718531E7E,lectus.convallis@utquam.ca,9172 Odio Av.,Villafranca in Lunigiana,10883,1-370-207-2182,29,San Jose State University,Embedded Software
+27,Judah Matthews,A837BF19-F239-F10C-A64A-EE4639BF0BFB,massa.Vestibulum@orciconsectetuer.edu,"P.O. Box 397, 468 Nec Road",Millport,98871,1-773-983-1920,23,"California State University, Fullerton",Network Security
+28,Amir Macias,C4EB88AE-B7FA-CD7D-C9D3-957A0CA46A4F,ultricies@anteVivamus.com,2202 Sagittis Street,Rae Lakes,30745,589-8286,30,San Jose State University,Machine Learning
+29,Oren Pickett,29ADB377-FE96-C213-AD12-C2687AF5670A,Nulla.tincidunt.neque@utcursusluctus.com,"Ap #717-4500 Congue, St.",Battagram,54997,116-6152,20,San Francisco State University,Network Security
+30,Jonah Santiago,06F2CD75-609D-A12C-2AA5-F7C7BAE4D89F,luctus@magnatellusfaucibus.org,944-707 Feugiat Rd.,Haarlem,48020,1-995-243-4098,17,"California State University, Bakersfield",Entrepreneurship
+31,Herrod Lyons,44F06A8D-3968-D210-A8DA-F8A87C81C8BB,non@Duis.ca,Ap #654-4970 Vulputate Road,Liberchies,40428,657-9170,22,"University of California, Riverside",Artificial Intelligence
+32,Griffin Welch,F2C63C02-3A9D-BDC0-93D4-80B5654D3912,semper.egestas@nequeseddictum.ca,Ap #889-1049 Netus Rd.,Lo Prado,88922,483-4624,21,San Francisco State University,Web Development
+33,Mohammad Tucker,E632FD0A-B918-826F-34F5-EB05B6311B5D,eu@felisNulla.net,389-495 Mauris. Street,Ligny,33454,852-3649,28,San Jose State University,Entrepreneurship
+34,Marsden Parrish,75D1A4B3-5631-9331-B5A9-C2B27B2EB8E0,vitae.aliquet@Duisrisus.ca,"P.O. Box 197, 4652 Metus. Rd.",Merksplas,58874,208-2663,25,Stanford,Embedded Software
+35,Lance Moon,406AE755-BD08-0C6C-6E61-AD6A36F183FB,nec@Vestibulum.co.uk,"P.O. Box 384, 8263 Amet Rd.",Nairn,88354,1-314-816-3421,25,San Francisco State University,Web Development
+36,Gil Larson,B16BF886-27D0-B729-9C4E-B789A6F4FB4B,Suspendisse.dui.Fusce@felis.com,2997 Sed Street,Kacchi,72552,1-363-432-2341,30,Stanford,Web Development
+37,Lamar Kaufman,E10395A1-5281-DF84-AFAC-52DF4B8517D0,tempus.non@taciti.com,Ap #670-1937 Nunc Rd.,Drezna,99466,1-923-769-8159,27,"University of California, Santa Cruz",Network Security
+38,Hunter Diaz,4CF9D29B-FA48-BF75-6F9F-FCDE43DD7D8C,dolor@Suspendisse.net,"P.O. Box 774, 4258 Metus Street",Caen,67030,1-637-343-7496,18,"University of California, Santa Cruz",Artificial Intelligence
+39,Alvin Gallagher,1F3A79BC-75A7-E38E-24F1-D7B186260CAF,vitae.sodales@interdumNunc.edu,"P.O. Box 673, 9777 Et Street",Gorzów Wielkopolski,21796,1-191-144-3811,28,"University of California, Davis",Network Security
+40,Porter Fowler,F125BA70-BCF2-7287-F5A3-70DD7C7C58E3,vel.convallis@nulla.co.uk,"P.O. Box 954, 8951 Elementum St.",Châlons-en-Champagne,82613,1-927-469-0084,29,San Jose State University,Machine Learning
+41,Tyrone Elliott,4AAD0E34-34AE-A9E7-144C-7229E3DC22DA,ullamcorper@odioa.net,"P.O. Box 846, 2350 Nascetur Rd.",Stockton-on-Tees,19501,1-723-622-9609,18,"California State University, Fullerton",Artificial Intelligence
+42,Hoyt Graves,C20EA842-A7D1-706E-8304-D01ADBDB3323,Sed@necligula.ca,"Ap #881-1764 Enim, Avenue",IJlst,52684,199-5729,29,"California State University, Bakersfield",Entrepreneurship
+43,Cruz Hobbs,02CD8999-C1B4-A5AD-782B-E12B1DCD2601,aptent.taciti.sociosqu@semPellentesqueut.co.uk,"P.O. Box 553, 5319 Sed Av.",Gore,64519,1-724-330-7007,29,Stanford,Embedded Software
+44,Slade Roth,1CAB22A3-ABD8-C1CC-AB7B-C3520A559731,lectus.pede@Ut.ca,744-9317 Erat Avenue,Saint-Oyen,90240,555-2732,23,Stanford,Machine Learning
+45,Harrison Lynch,0023FFB2-CB5B-7971-D3EF-236DAB563CFD,sed.pede@volutpatnuncsit.com,"Ap #787-3268 Vulputate, Avenue",Dover,99337,545-2370,25,"University of California, Riverside",Artificial Intelligence
+46,Benjamin Frederick,29D510A5-F701-5059-FF4A-793F160CCCE4,enim.Sed@Curabiturconsequatlectus.co.uk,3979 Est St.,Bearberry,26443,178-4600,25,Stanford,Web Development
+47,Tarik Neal,E622D027-1285-89A8-F7C2-46E12A0EACE1,vel@velit.com,1341 Vitae Avenue,Kelkheim,71564,241-2513,21,"California State University, Fullerton",Network Security
+48,Peter Gutierrez,F653D37E-4B22-109A-7E14-570A044DAA73,Nunc@Nullam.ca,"Ap #904-4969 Est, Avenue",C�te-Saint-Luc,68836,1-424-424-4096,22,Stanford,Machine Learning
+49,Odysseus Boyd,F086D5FC-012F-2891-1393-F80F2FD77AFA,posuere.at@volutpat.com,5314 Quis Av.,Posina,27676,301-5857,27,"California State University, Fullerton",Artificial Intelligence
+50,Tyrone Gonzalez,7DBD3218-29EF-3DA7-3E0C-BEEF4090A57B,Nullam.vitae.diam@metus.com,6590 Nunc Rd.,Lennik,69978,1-117-192-5318,22,"California State University, Fullerton",Entrepreneurship
+51,Fritz Wood,A36CA999-802D-7A5D-9426-3F8A2C7BABA4,taciti.sociosqu.ad@disparturient.edu,Ap #484-5125 Pellentesque Rd.,La Plata,68581,1-838-739-9592,18,"University of California, Riverside",Machine Learning
+52,Wang Coffey,8A727189-1EED-550E-B560-0F48BA1E9D46,a@hendrerita.com,547-9178 Ultrices Rd.,Tiarno di Sopra,46406,1-966-649-9296,29,"California State University, Fullerton",Entrepreneurship
+53,Seth Travis,389DFCCB-21B1-FD73-B4FF-D147ECA967CD,Vestibulum.ut.eros@ornare.ca,"P.O. Box 315, 7867 Velit. St.",Cheongju,99058,1-734-888-7381,29,San Jose State University,Web Development
+54,Joseph Russo,57345C46-E47A-B68D-4E9F-77C5E17E0FF9,rutrum.eu@adipiscinglacus.edu,946-792 Donec Street,Maullín,99168,166-9755,24,Stanford,Embedded Software
+55,Berk Walter,F5C52552-A225-7899-5468-91284798C699,fringilla.cursus@afacilisisnon.net,104-359 Aliquet Road,Kaduna,42498,1-667-275-3393,20,Stanford,Artificial Intelligence
+56,Nash Owens,9A22C6DD-1F9C-C510-2D1D-72F43FFB0BA9,facilisis.eget.ipsum@bibendum.org,"2336 Ut, Rd.",San Bernardo,16535,1-326-882-8685,30,Stanford,Machine Learning
+57,Ian Mendoza,6DBD2529-2C8F-46E5-4F9B-C940FB4E424B,ante.blandit.viverra@orcisemeget.com,1022 Velit. Ave,Charsadda,58617,631-6322,24,"University of California, Riverside",Web Development
+58,Samuel Hamilton,BE3D9B0F-6E64-0EE1-9A8A-BC189A0D94E1,cursus@ametorciUt.co.uk,Ap #832-8672 Est. Rd.,Hwaseong,45409,633-7507,29,San Francisco State University,Artificial Intelligence
+59,Wesley Lancaster,B9F00A48-3A05-CAAC-5D80-F82FD2DC9857,nunc.est@sitametrisus.co.uk,"P.O. Box 357, 7312 Lacus, St.",Linköping,89458,1-708-398-4879,22,San Francisco State University,Embedded Software
+60,Wing Atkinson,89764255-E623-E294-30EF-0D99A834E782,erat.volutpat.Nulla@Donecfelisorci.org,"P.O. Box 485, 4482 Et, Av.",Corroy-le-Grand,60130,1-117-598-9957,26,"University of California, Santa Cruz",Entrepreneurship
+61,Tyrone Gross,0AC0FA13-F8DA-5FCB-D366-CA81D3B9FB2C,in.felis@magnaseddui.co.uk,8456 Mauris Street,Hertford,46999,1-209-768-6176,19,Stanford,Web Development
+62,Yuli Decker,E79D9EE4-B873-B28F-58D3-5C56D0B5B390,Nullam@acfermentum.ca,3291 Vivamus Rd.,Béthune,15556,425-5907,23,San Francisco State University,Artificial Intelligence
+63,Berk Nunez,CDE40666-B15D-9864-3824-08AA31E29976,egestas@dolor.co.uk,863-2840 Lacinia. Avenue,Salzwedel,63479,263-1282,22,"University of California, Davis",Entrepreneurship
+64,Baxter Irwin,16E2AD84-4C7E-EA38-C9AF-4668EA1BFC05,ac.mattis@Vestibulumaccumsanneque.co.uk,"P.O. Box 837, 1096 Eget Ave",Castelbianco,69563,1-150-268-4643,17,"California State University, Bakersfield",Entrepreneurship
+65,Trevor Randolph,B515DE11-FB9D-FBCB-350D-0B268A0CF1DC,Sed.nec@Donec.org,Ap #264-9166 Odio. Ave,Oyo,52529,1-633-425-5718,25,Stanford,Network Security
+66,Axel Washington,E70AD8F6-97A4-A9DE-DB10-6791226381E7,elit.pretium.et@Nullatincidunt.com,"9250 Purus, St.",Cromer,68799,1-431-459-0044,29,San Jose State University,Network Security
+67,Alec Gonzalez,C90790C3-37F5-AC99-33B2-788BB0D0CAC4,vel.arcu.eu@sapienAenean.org,Ap #628-3955 Leo. St.,Astrakhan,13144,1-486-202-5161,22,"University of California, Davis",Embedded Software
+68,Basil Lindsay,79E69DED-99C4-D28C-1F24-A309E48573E5,non.dapibus.rutrum@aodiosemper.net,772-6010 Aliquet St.,Huissen,38906,1-737-716-6080,26,"University of California, Davis",Artificial Intelligence
+69,Walter Hubbard,5CB61069-A1C7-DC0B-F0D1-A415FEC56CD7,neque@Aliquamornare.com,"5253 In, Rd.",Lasnigo,28253,1-280-546-8317,30,"California State University, Bakersfield",Machine Learning
+70,Ethan Stephenson,95B3DCF1-FA72-5BEE-FD3E-BC8462AEBD45,cursus.Nunc.mauris@est.org,"4507 Purus, Rd.",Silifke,27203,1-612-112-6905,29,"University of California, Riverside",Embedded Software
+71,Leo Mejia,91B85E8B-37E6-9C00-1BA6-5596CBEC91F5,aliquet.molestie.tellus@ametultriciessem.com,Ap #759-8470 Eget Avenue,Girardot,74804,1-961-660-7435,23,San Francisco State University,Machine Learning
+72,Blake Morales,DDAF16B0-D7AD-E9AE-8E75-4493DF445896,orci.consectetuer.euismod@estvitae.edu,"P.O. Box 777, 7868 In, Street",Juan Fernández,33106,1-243-420-6689,29,San Jose State University,Machine Learning
+73,Hayes Gill,A69AC007-E4F7-A402-AFD0-FF74BA14D36F,ut.molestie@ridiculusmus.com,863-4848 Eleifend Ave,Tuscaloosa,72896,878-3904,20,San Francisco State University,Network Security
+74,Rooney Flowers,55588DB1-3015-58AD-B585-69DBABD6BA35,nec@dolor.edu,"P.O. Box 245, 488 Dolor, Avenue",Smetlede,46887,515-1812,27,"University of California, Santa Cruz",Embedded Software
+75,Acton Eaton,67A08422-8026-3A1A-C15D-879C783DDD87,diam.dictum.sapien@orciadipiscing.org,"184-5362 Pede, Ave",Bonavista,26727,1-826-885-0051,17,"University of California, Davis",Embedded Software
+76,Bernard Griffith,57E78096-94E3-7F56-689F-85B477C409D2,orci.quis@risusvarius.ca,"P.O. Box 502, 935 Justo Road",Tulsa,59422,831-6336,28,San Jose State University,Machine Learning
+77,Camden Schultz,581DFD0D-0418-65AA-F593-B4907E16A1D0,mollis.Phasellus@aliquamenimnec.org,"P.O. Box 627, 8100 Lacus. Avenue",Tramutola,27274,1-895-967-1844,29,"California State University, Fullerton",Entrepreneurship
+78,Driscoll Martinez,A0128232-1671-3BAE-AF06-74AAE7A39035,dictum.eu.eleifend@netusetmalesuada.ca,"P.O. Box 694, 8978 Enim. Rd.",Osan,47357,806-8782,17,Stanford,Embedded Software
+79,Gregory Miles,D859BF49-4359-7032-6710-9A1366376041,sem.ut.cursus@vel.org,759-6091 Phasellus Av.,Rockford,83997,130-7113,19,"University of California, Davis",Machine Learning
+80,Forrest Joyner,04C16F9C-5AC5-4DFA-A95E-1D3C572C14C1,ut@euelitNulla.co.uk,334-1868 Eros Avenue,Duluth,33498,269-6155,19,"University of California, Davis",Web Development
+81,Len Cantrell,3BC45611-787E-E344-F5A0-C5506F6973AB,eleifend.nunc@Phasellusdolorelit.org,980-9484 Metus. Road,Nashville,52722,1-316-729-0629,27,"University of California, Santa Cruz",Web Development
+82,Nissim Horne,BD762557-1CC7-ACBD-C25F-90A306D19B96,facilisis.non@lobortisauguescelerisque.ca,Ap #112-2174 Nunc Ave,Canora,42962,997-4687,27,"California State University, Fullerton",Web Development
+83,Orson Decker,C3120B55-DDE7-C2CA-17A8-DDAD073F44DA,malesuada.Integer.id@vitaedolorDonec.edu,6038 Ipsum. Rd.,Wolfurt,13035,391-3619,23,"University of California, Davis",Artificial Intelligence
+84,Hamilton Fischer,160A9EC8-D848-98A5-4546-711435ED7076,Aliquam.erat@semconsequat.edu,"P.O. Box 958, 6615 Eleifend Avenue",Riparbella,49828,792-8520,25,"University of California, Santa Cruz",Artificial Intelligence
+85,Cameron Phillips,3E0B357E-2A63-5399-AF74-11ED80AA2CB7,commodo.auctor@ipsum.edu,632-4546 Vulputate Av.,Sivry,10445,1-447-382-7295,27,San Jose State University,Web Development
+86,Marvin Harrison,F8575ECA-2D51-EFA2-5807-3AA7881E3A1E,sit@gravidanuncsed.co.uk,458-3718 Quis Ave,Chepén,61166,158-8569,17,"University of California, Santa Cruz",Entrepreneurship
+87,Harlan Ramos,080E8701-2013-C2DD-66EF-1C0C142411EC,Ut.semper.pretium@malesuadaaugueut.org,"P.O. Box 407, 173 Lacus. Av.",Newquay,12289,1-662-839-5370,20,San Francisco State University,Embedded Software
+88,Kaseem Washington,B01132A0-FC3E-142F-36CC-1328C781D4A5,imperdiet.non.vestibulum@elitpellentesque.org,"P.O. Box 793, 7050 Hendrerit St.",Cumberland County,55145,1-299-804-7247,24,Stanford,Network Security
+89,Anthony Potts,44B7BFDC-640D-D8BD-5D44-11464AEF93F1,enim.mi@Pellentesque.org,"P.O. Box 148, 2543 Molestie Ave",Toernich,42465,1-151-683-3741,18,Stanford,Entrepreneurship
+90,Kane Dominguez,1C594E99-F62D-A260-219C-65BCA5CA2A17,Morbi.non.sapien@arcuimperdiet.ca,Ap #703-9808 Donec Rd.,Sabanalarga,86406,1-442-448-1846,17,"University of California, Davis",Network Security
+91,Conan Garcia,A02ED801-A853-9CB1-86E3-EE51D07A893F,montes.nascetur@tristiquealiquet.com,Ap #823-6898 Diam. St.,Hoeke,20105,1-804-661-2785,18,"University of California, Santa Cruz",Machine Learning
+92,Warren Trujillo,BB2F5495-ABC4-2740-DED6-CC4280DAF9F2,tempor.erat.neque@eget.org,138-5928 Facilisis Rd.,Jacksonville,66235,945-7253,18,San Francisco State University,Artificial Intelligence
+93,Tarik Cote,86A0FF99-BDBF-8879-A8AD-C37030A591E7,eros.Proin.ultrices@faucibus.ca,Ap #250-8546 Dictum Street,Saint-Prime,86388,1-187-213-1049,26,Stanford,Network Security
+94,Jason Carlson,DC534F77-39CC-F9AC-C9ED-60E51D300550,diam.Duis.mi@sitamet.com,"P.O. Box 190, 5539 Praesent Rd.",Mirpur,25556,1-496-741-0516,22,"California State University, Fullerton",Artificial Intelligence
+95,Octavius Hutchinson,ED924291-0D27-A7D4-60F9-0D9E79A8569F,Pellentesque@Vestibulumanteipsum.com,"P.O. Box 495, 5686 Erat Av.",Shebekino,28941,1-236-598-6665,19,San Francisco State University,Web Development
+96,Knox Olsen,63D9081F-F0CC-8394-4ABB-E1D94EBE9BC0,Sed.congue@Suspendissesed.com,118-9722 Duis Av.,Gimpo,97036,586-3257,24,Stanford,Network Security
+97,Leonard Kinney,94CA6EC5-5132-57EE-8153-F8C27C6CBB78,faucibus@sagittisNullam.ca,Ap #509-3620 Vitae Street,Gaziantep,72151,870-8760,24,San Francisco State University,Embedded Software
+98,Fritz Randolph,36004703-696C-2D51-DCF7-2E8B64C5B0E0,Integer.eu.lacus@cubiliaCuraeDonec.org,"374-6441 Montes, Rd.",Zignago,23642,1-151-735-4501,22,"California State University, Bakersfield",Machine Learning
+99,Dane Olsen,C9C5BBE3-F055-0245-F4DE-663926C948F3,natoque@neque.ca,191-9926 Posuere Ave,Dindigul,93088,1-792-126-1879,22,"University of California, Davis",Entrepreneurship
+100,Duncan Hunter,4C7907D2-40D2-9732-470A-31401A9BE09E,ridiculus@massaVestibulumaccumsan.net,1260 Sapien. St.,Talara,62181,1-413-475-9582,29,"California State University, Fullerton",Entrepreneurship
+101,Cullen Sparks,9ABC7396-FEFB-53B4-5007-4AF71FE62877,nulla.magna.malesuada@iaculislacuspede.edu,Ap #131-3689 Turpis. St.,Sant'Omero,30126,1-733-192-4118,19,"University of California, Santa Cruz",Entrepreneurship
+102,Ahmed Garza,9EA20B34-2514-5BC2-1574-2141E08967FC,arcu.Vestibulum.ante@eleifendegestas.org,8662 Tempus St.,Dieppe,99452,1-810-202-9141,23,"California State University, Bakersfield",Embedded Software
+103,Zane Beasley,27DCD680-82BF-12B9-79AC-11F9F325332E,Lorem.ipsum@tempusrisusDonec.ca,8921 Dictum Street,Dorval,71379,1-873-962-4474,20,San Jose State University,Entrepreneurship
+104,Fuller Mcdaniel,8BE90547-7766-20A4-67A9-D4270E388A84,augue.malesuada@auctorvelit.co.uk,136-2487 A Rd.,Gwangju,50897,1-473-977-3209,30,"University of California, Davis",Web Development
+105,Micah Randolph,6102DA38-722A-5478-F7C8-DEF076F16B7C,lorem.fringilla.ornare@egetodio.com,410-9986 Sit Avenue,Alkmaar,86877,1-196-334-1493,18,"University of California, Davis",Network Security
+106,Barrett Bentley,6C82C0E1-45EA-113F-69A0-4C831AEDA4EC,lorem.lorem.luctus@Pellentesquetincidunttempus.net,"P.O. Box 817, 5229 Eu St.",Roubaix,49469,583-7443,21,"California State University, Bakersfield",Embedded Software
+107,Solomon Mullen,11C643DE-824E-1B72-72E5-CB3DECF8D703,non.dui.nec@fermentumfermentum.edu,770-1987 Id St.,Unnao,80907,627-4790,21,"University of California, Riverside",Embedded Software
+108,Nasim Tyson,9980E3EB-DA25-0E5A-2978-3D7846884A4D,tristique.senectus.et@aliquet.edu,6897 Vivamus St.,Cerrillos,90773,961-1470,19,Stanford,Web Development
+109,Clayton Merrill,DB372B2F-3F94-F1F4-B4CE-441634F9CF1E,lectus@pretiumnequeMorbi.net,Ap #831-6920 Luctus Rd.,Colorado Springs,14747,1-970-343-0292,28,"California State University, Bakersfield",Web Development
+110,Hasad Dotson,5136072B-1B24-C52E-30D6-DD8C75EB0880,ac.urna.Ut@enim.org,Ap #264-4226 Risus. Ave,Puerto Octay,80981,1-458-781-4785,26,"University of California, Davis",Entrepreneurship
+111,Barrett Malone,B0CE3E96-C8AB-4582-4B9D-2523A807B04C,vel.arcu.eu@Incondimentum.edu,"P.O. Box 341, 4413 Placerat, Rd.",Thunder Bay,57025,893-8002,19,"California State University, Bakersfield",Web Development
+112,Richard Serrano,ABB6338E-A445-A03B-C7A5-BF13401B1D4E,metus.eu@elitelitfermentum.org,580-3630 Justo Ave,Chimay,18563,1-302-149-4492,20,"California State University, Fullerton",Web Development
+113,Rogan James,A1C88412-7473-5D94-3B0A-B01B84C7C4B8,eu@facilisis.net,"P.O. Box 859, 9695 Massa. Avenue",Galzignano Terme,10226,1-355-978-0893,26,San Jose State University,Web Development
+114,Dean Brady,1E5571B9-A019-5379-E1B4-C96D94F41906,lobortis.quis@nisl.ca,Ap #762-4465 In St.,Medea,75617,1-397-467-8794,26,Stanford,Machine Learning
+115,Marshall Woodward,9270249B-E618-E935-A389-3BE1550D5562,nisi.a.odio@sempereratin.ca,"P.O. Box 866, 5119 Diam Rd.",Cariboo Regional District,67645,1-709-749-5911,28,"California State University, Fullerton",Embedded Software
+116,Tate Craig,AB4E1E74-6EE8-BEE3-B263-9954D1C388BF,lorem.sit@ipsum.co.uk,5313 Venenatis Rd.,Raichur,76215,1-685-565-8765,17,"University of California, Davis",Web Development
+117,Steel Kelley,7859E8D3-5695-F7CE-CDB2-1672BDC843D1,convallis.erat.eget@lacinia.com,"P.O. Box 939, 4635 Non, Rd.",Hanret,48591,1-987-608-1807,29,"University of California, Riverside",Network Security
+118,Matthew Riggs,36AEB229-92BF-7E76-C1F9-D13768A3AF51,tempor@laoreet.co.uk,790 Ultricies St.,Basirhat,98957,360-8779,26,"University of California, Riverside",Entrepreneurship
+119,Rooney Burke,FE421FCF-F3A7-06FC-88CB-A9FA80044412,augue.malesuada@ac.edu,"P.O. Box 275, 9916 Maecenas Road",Avise,16127,702-6073,23,San Francisco State University,Network Security
+120,Trevor Poole,2A87AF82-614B-36F3-CB71-DF6CEE43FA68,Integer@lectussitamet.org,8313 Dolor. Ave,Jiutepec,78070,1-717-123-6221,17,"University of California, Santa Cruz",Network Security
+121,Clarke Whitney,1BCBBADB-DA48-9181-F3A6-4CE985B31BE6,congue@vitaevelitegestas.edu,Ap #461-9599 Sem St.,San Vicente,86197,1-287-204-0700,21,"California State University, Bakersfield",Machine Learning
+122,Berk Kline,74B78CBB-3A4F-E3BD-B928-EC8E4B822676,vulputate.eu.odio@faucibusMorbivehicula.edu,2267 Accumsan Ave,Wimbledon,61370,1-483-188-4938,29,San Jose State University,Machine Learning
+123,Cole Pitts,7819C04F-05EF-03B2-6E78-97F8D3820D0B,a.scelerisque@Aliquamnecenim.org,Ap #437-9568 Metus. Ave,Saint John,62997,1-915-554-1997,29,"University of California, Santa Cruz",Artificial Intelligence
+124,Oscar Mills,2F6E0EDF-3D86-E1C6-8E41-EB5347EAB132,eu.neque.pellentesque@auctorullamcorpernisl.net,Ap #829-5437 Nulla Avenue,Castelluccio Superiore,68183,361-1698,29,"University of California, Davis",Web Development
+125,Damian Vasquez,FD61D466-5390-1519-8CC7-4D5829E612E1,mollis.nec@mattis.com,"P.O. Box 888, 9409 Odio St.",Dera Bugti,70653,752-9494,18,San Francisco State University,Machine Learning
+126,Elton Howell,E56F9DD8-4983-917D-E527-6D059DF4882B,turpis@eliteratvitae.com,9228 Fusce Avenue,Wuppertal,93877,1-124-101-4954,23,San Jose State University,Web Development
+127,Hamilton Singleton,6BD0E140-90B9-87D6-C8AA-0A0CADC2DC38,nonummy@blanditenim.net,"P.O. Box 850, 6600 Ut Av.",Arzano,62089,1-534-552-3782,29,Stanford,Artificial Intelligence
+128,Castor Cohen,099C4179-D48A-D1C6-9C4A-2634D2ACC1EF,Integer@lacusQuisque.net,4521 Id Rd.,Serskamp,13517,527-1390,20,"University of California, Riverside",Entrepreneurship
+129,Laith Campos,B43D9EEC-065A-88BA-5688-247C193E0AF9,urna@semutdolor.ca,"P.O. Box 222, 6314 Cum Rd.",Charters Towers,27246,969-5886,18,"University of California, Riverside",Machine Learning
+130,Aristotle Tanner,9C63CE13-19D2-2C80-AA62-D5763E23366B,dolor.Donec@laoreetliberoet.ca,"P.O. Box 503, 1887 Proin Ave",Parral,14693,1-298-354-5259,22,"University of California, Davis",Embedded Software
+131,Howard Hull,CF81F12E-4E57-16DD-204F-C89B947200EB,parturient.montes@Curabiturvellectus.ca,4949 Quis Avenue,Calgary,42739,1-330-912-9454,18,San Jose State University,Artificial Intelligence
+132,Abdul Blevins,16387321-3830-C3B2-28BF-1BCBB6EE2A30,est.Mauris.eu@morbitristique.com,458-4307 Odio Street,Khuzdar,21352,1-505-300-0559,23,"California State University, Fullerton",Artificial Intelligence
+133,Kasper Hayden,0D4B964E-BCF3-A2B7-6633-B371A693343A,Vestibulum.ut.eros@facilisiSedneque.co.uk,6368 Nulla Avenue,Ethe,19482,860-3311,17,San Francisco State University,Web Development
+134,John Bray,D872868B-486E-0CBB-0629-A3129A97E3BA,Pellentesque.habitant.morbi@a.co.uk,Ap #208-1627 Eget St.,Vinci,44180,1-355-495-0900,27,San Jose State University,Network Security
+135,Gary Winters,7B22EE1C-40CE-5E60-6009-293FAEF43609,mauris.ipsum.porta@justo.co.uk,"883-759 Et, Road",Neufeld an der Leitha,27654,1-397-678-7965,19,Stanford,Machine Learning
+136,Brady Perkins,C20EBF01-6388-7FB6-2C3F-036B873DB4A0,ac@enim.net,7898 Cum Road,Kimberly,88340,439-8105,19,Stanford,Web Development
+137,Kane Adkins,FFE391EE-4071-D43D-5459-87BFBE610F32,ultrices.posuere.cubilia@iaculisaliquetdiam.co.uk,Ap #955-582 Mus. St.,Bruck an der Mur,92972,1-480-525-4706,28,"University of California, Riverside",Network Security
+138,Adrian Hammond,72B16C30-8EC8-3E0A-5928-DB16C8706AFF,leo.Vivamus.nibh@semperpretiumneque.co.uk,8175 Massa. Street,Hospet,23278,597-3802,26,"University of California, Riverside",Embedded Software
+139,Alfonso Day,CDE56B39-081B-9890-0746-7679E16DCB94,senectus.et@utlacus.ca,116-4687 Mollis. Ave,Wabamun,28111,333-0019,29,Stanford,Machine Learning
+140,Kasper Clayton,F2007419-6058-C6AC-0FC6-A4454B30B513,nunc.risus@felis.co.uk,"P.O. Box 588, 6694 Sed Rd.",Deerlijk,72885,1-325-724-4615,27,"California State University, Bakersfield",Network Security
+141,Ivor Pitts,CE7755B0-4FF3-6DB2-285F-11BA8C23052E,vel.convallis@odioapurus.ca,5907 Ac Road,Santo Stefano Quisquina,61475,738-7598,17,"University of California, Davis",Artificial Intelligence
+142,Steel Knowles,E926CA9D-0EFE-6AB8-C6D7-6AE652FE1141,nisi.nibh@loremauctor.com,Ap #436-2649 Eros. St.,Patna,33119,737-4128,22,"University of California, Davis",Artificial Intelligence
+143,Alan Massey,68602C63-6604-DC98-0F5C-30815E05CA22,suscipit@sed.edu,9481 Euismod Street,Lafayette,80136,844-8786,19,San Jose State University,Artificial Intelligence
+144,Prescott Whitaker,5E339140-95A0-384B-DC11-CE7783AF33D8,arcu.Sed@consectetueradipiscing.com,"P.O. Box 245, 2298 Amet, St.",Barranquilla,94645,1-739-695-6390,25,Stanford,Machine Learning
+145,Herman Irwin,590C628C-B534-1EAC-02C4-B38AFB721129,aliquet.odio@liberoat.ca,134-6330 Facilisis Rd.,Wyoming,48149,1-251-889-1881,23,"University of California, Davis",Network Security
+146,Louis Lloyd,3BF9B038-3D63-18CD-CEEB-40EA7642D7D7,elit.fermentum.risus@Innecorci.ca,8607 Auctor Av.,Coalhurst,89435,481-0306,30,"University of California, Santa Cruz",Machine Learning
+147,Fletcher Mercado,723CA04A-53BA-BE04-FF8A-14A4A2385D61,sagittis@Nunclaoreet.edu,Ap #997-2487 Sociis St.,Haveli,92962,785-5155,20,"University of California, Riverside",Entrepreneurship
+148,Kasimir Reyes,07BEDA52-2105-ACE9-D602-4D0211FF07D4,libero@nuncnullavulputate.com,6862 Nunc St.,Anglet,97992,1-422-446-9479,26,Stanford,Embedded Software
+149,Steel George,BFB9DD5B-F580-AADD-048F-FF6820B1E9B8,libero.dui.nec@nisisem.edu,"P.O. Box 886, 3050 Nullam Street",Strathcona County,43583,1-925-554-0816,23,Stanford,Artificial Intelligence
+150,Oscar Bowen,59FE9D90-9B6F-74A7-CCC6-D0F4F17330C0,Proin.ultrices@Aliquamrutrum.ca,"P.O. Box 408, 6063 Non Ave",Potenza,75758,1-755-621-4276,21,"University of California, Davis",Network Security
+151,Bradley Carpenter,83FFA98D-E9E5-1507-8FC9-43E0830776BF,enim@miacmattis.com,"P.O. Box 207, 6687 Aliquet. Ave",Lasne-Chapelle-Saint-Lambert,64871,1-527-745-7616,23,San Jose State University,Embedded Software
+152,Jackson Gibbs,358DF868-1301-76EF-AFB9-AA3F4977AF7C,felis.adipiscing@erat.net,"Ap #566-1251 Ornare, Road",Durg,50214,806-6882,18,San Francisco State University,Machine Learning
+153,Martin Hays,123104D1-9A83-0F4F-D3F7-D5E9A39329EB,pede.Praesent@massanon.co.uk,6356 Nec Rd.,Monte San Savino,89304,1-275-908-4090,17,"University of California, Davis",Network Security
+154,Isaac Mccarty,E6E9B63F-56AB-621D-9F34-F62F74E4EE45,Nullam.vitae@acliberonec.co.uk,"P.O. Box 197, 255 Nibh Av.",Sovizzo,42572,175-6250,26,"University of California, Santa Cruz",Entrepreneurship
+155,Gregory Montoya,92165B6D-38A9-E43C-590D-5C5A61BE8EA2,pharetra.felis.eget@non.org,462-7379 Cras Avenue,Aisemont,84641,170-6968,23,Stanford,Web Development
+156,Dieter Velasquez,F1444674-561A-DAAE-E4B3-5C1AA0CDBA1F,vel@senectusetnetus.ca,Ap #975-7676 Mauris St.,San Lazzaro di Savena,25346,298-5170,25,San Jose State University,Web Development
+157,Zachery Wise,0112B43F-F899-7C27-C0FB-D311643BDADE,dolor.dolor.tempus@iaculisnec.com,1525 Porttitor Av.,Albagiara,61836,103-0798,22,"California State University, Fullerton",Machine Learning
+158,Michael Mckenzie,809AE481-FC3A-ADD5-5691-05E342C96347,penatibus.et.magnis@ultrices.net,6913 Sem Street,Elbistan,10768,1-584-959-4123,23,San Francisco State University,Artificial Intelligence
+159,Timon Sawyer,7E189A4A-05D1-144E-8113-6723E878B3B3,velit.Pellentesque.ultricies@nonsapien.org,1220 Scelerisque Av.,Nethen,35319,1-760-163-9426,23,San Francisco State University,Web Development
+160,Palmer Haney,62F73C74-9E96-0684-0F74-0A1C46E4393A,scelerisque.scelerisque.dui@sedhendrerita.net,"Ap #288-4315 Vitae, St.",Forgaria nel Friuli,12005,785-8355,19,"University of California, Riverside",Web Development
+161,Isaac Powell,C8272F1C-862D-B892-6C37-0D777574FCE2,mi.felis@lobortis.ca,"P.O. Box 195, 831 Tincidunt Av.",Tumaco,89680,519-5691,23,"University of California, Davis",Network Security
+162,Ezekiel Morrison,1B017745-427D-2DFC-F000-E76E2F7A2E44,venenatis.a.magna@Loremipsumdolor.ca,"P.O. Box 621, 3838 Non, Rd.",Ceuta,23533,1-453-689-8188,21,"California State University, Fullerton",Entrepreneurship
+163,Damon Bryant,EBE51AD5-7DDA-E512-01D5-1C6DE7FBD1F7,aliquet.Phasellus@velit.com,"P.O. Box 985, 4009 Sapien. Ave",La Estrella,77356,1-392-713-7174,20,San Jose State University,Embedded Software
+164,Rogan Woodward,527504B7-4F91-E21F-D6A1-9FC09958FFB0,Nulla.facilisi@Nunccommodo.edu,"P.O. Box 783, 9463 Donec Rd.",Hamme,13158,1-938-729-4922,23,"California State University, Fullerton",Entrepreneurship
+165,Forrest Leonard,7EDA2056-C3CD-F586-A9B4-6AB56F915D2C,amet.ultricies@ac.edu,"P.O. Box 545, 2348 Phasellus Street",Godhra,58065,1-948-602-4708,30,"California State University, Fullerton",Entrepreneurship
+166,Stone Brewer,104AEB00-CDE8-C148-7025-67ED5C4B9DB8,tellus@nonvestibulumnec.net,Ap #895-5934 Mauris. Av.,Lo Espejo,82447,891-2809,20,"California State University, Bakersfield",Artificial Intelligence
+167,Elton Ratliff,963D8A21-4A60-34E5-0451-410D2328CA27,tristique.aliquet@Proin.ca,140-5613 Nullam Avenue,Leiden,58515,669-8284,28,"University of California, Riverside",Network Security
+168,Ciaran Lawson,72AD7970-6C5D-DFEE-DBB4-FD1851D1AB24,ornare@laoreetlectus.ca,"P.O. Box 339, 5072 A, Ave",Lisieux,70237,1-711-263-3745,18,Stanford,Network Security
+169,Colby Day,47C341B4-1AC3-0538-A5FD-59F71285DD19,Pellentesque.habitant.morbi@nisisem.edu,920-2737 Proin Ave,Emines,95764,810-8388,24,"California State University, Fullerton",Machine Learning
+170,Colton Singleton,761409CF-66CA-BAAB-81CB-30E036A82590,et.arcu@sempertellus.com,952-9829 Neque. Road,Curaco de Vélez,69427,1-548-454-7585,27,"California State University, Bakersfield",Web Development
+171,Travis Jacobson,F55747B4-81D8-ADBD-F6AD-B54E3DC099A0,cursus@imperdiet.co.uk,4295 Ac Road,Sant'Angelo in Pontano,88435,1-806-734-3400,21,San Francisco State University,Network Security
+172,Lamar Newton,335176FB-F664-4D3E-2385-8C5280504AD2,Mauris.vel@magnaNam.co.uk,"P.O. Box 606, 9198 Euismod Rd.",Massa e Cozzile,85826,246-3576,25,Stanford,Machine Learning
+173,Omar Gould,814C6DFF-18A9-F5B2-96E7-70BEC8892EC5,nunc@sodalesat.edu,"P.O. Box 675, 2050 Lectus Avenue",Soverzene,72729,1-802-710-6963,23,San Jose State University,Entrepreneurship
+174,Steven Dalton,5FE7C04B-2FBC-29D2-A36F-6AEF186DB94B,mauris.a.nunc@non.com,8682 Integer St.,Olivola,31453,466-6480,23,"California State University, Bakersfield",Embedded Software
+175,Bruno Cohen,BDF8F7A8-33A3-3CAC-60F8-6AF5AECFC265,vitae@odiovel.ca,3037 Morbi Rd.,Oostmalle,15249,1-245-916-5260,24,San Francisco State University,Artificial Intelligence
+176,Stuart Morse,99AC2E23-B24F-AE1F-3723-0EB3BCED6A7F,Mauris@arcuCurabiturut.ca,Ap #929-8775 Tortor. Street,Chandler,53804,1-324-572-0724,26,"University of California, Davis",Embedded Software
+177,Merritt Hutchinson,5414091C-FD1B-578D-1C7D-4484431C8D9F,non@nec.org,"P.O. Box 812, 346 Eros. Av.",Burin,12462,1-387-151-3815,27,"University of California, Davis",Artificial Intelligence
+178,Fuller Snyder,93C76EF5-1F16-2907-6117-4A2FAC535B8A,lectus.pede@nislMaecenas.edu,"Ap #724-634 Lorem, Rd.",Périgueux,54558,627-3515,27,San Jose State University,Entrepreneurship
+179,Porter Fitzpatrick,EDDDD970-1496-8C04-D63D-D61DCB873B85,nunc@Classaptenttaciti.org,Ap #459-4200 Sapien. Ave,Stony Plain,99187,1-284-918-9275,25,San Francisco State University,Entrepreneurship
+180,Colton Charles,750D4E84-0DB2-D0E5-8090-87E23CEF6FC3,Quisque.porttitor.eros@malesuada.ca,"P.O. Box 310, 9254 Blandit St.",Vöcklabruck,53346,619-6441,28,"University of California, Davis",Network Security
+181,Branden Beasley,A106D0F7-3449-1F4D-8D92-C1705BBCED52,sem@sit.net,"503-248 Eget, Avenue",Clovenfords,74740,596-9864,21,"University of California, Davis",Embedded Software
+182,Hayden Glenn,BC91220C-074A-4C3E-CAEC-0E211D29D084,elementum.lorem.ut@Donecnibhenim.edu,471-2671 Sit Rd.,Casalbuono,47900,1-837-528-7999,28,San Jose State University,Embedded Software
+183,Perry Winters,7E8E87B2-76D1-4846-7B52-01D98291755F,mollis.dui.in@lorem.ca,241-8109 Tempor Avenue,Zwijnaarde,68255,522-5143,28,"University of California, Davis",Artificial Intelligence
+184,Isaiah Flynn,E2140D14-36CB-A911-E10B-9D60B04FE149,justo.eu.arcu@elitpellentesquea.co.uk,3767 Ligula St.,Bois-de-Villers,28799,1-356-211-5258,28,San Jose State University,Web Development
+185,Driscoll Gentry,62D15AAB-8058-49A1-EC23-B08003F08E96,vel.arcu@purusaccumsaninterdum.co.uk,"P.O. Box 327, 9285 Orci St.",Crehen,35788,482-1882,30,"California State University, Bakersfield",Embedded Software
+186,Merrill Drake,098C0F17-4DDA-BF04-189A-3FF51F2249D5,Vestibulum.ante@ridiculusmusAenean.net,729-2620 Dictum Road,Bellevue,44071,1-788-992-4416,27,"University of California, Riverside",Artificial Intelligence
+187,Oscar Douglas,51A2AF43-01AA-B336-C67B-516EB7E169C4,molestie.tortor@congueturpisIn.co.uk,"7100 Elementum, Rd.",Moose Jaw,17457,1-437-263-4301,19,"California State University, Fullerton",Embedded Software
+188,Hu Hull,E635F775-2C03-9AC0-DE50-FDC52F050C09,dui.Suspendisse@nonmagnaNam.com,195-8361 Cursus. Avenue,Cariboo Regional District,32794,683-9264,22,"California State University, Fullerton",Machine Learning
+189,Dexter Harmon,B9F57685-3883-5542-7648-91C050577C80,pede@dolordolortempus.ca,6842 Phasellus Av.,Radicofani,11559,310-4382,24,San Francisco State University,Web Development
+190,Victor Harrington,27FAEE98-433C-DD15-8521-1728B5963AED,Maecenas.iaculis.aliquet@porttitorscelerisque.ca,2862 Penatibus Road,Amberloup,35631,1-309-867-8162,29,"University of California, Riverside",Network Security
+191,Harlan Moore,8C40679A-9067-3F25-F792-DD8F01D848BA,interdum.enim@in.net,Ap #519-6544 Risus. Street,Mosocw,70476,1-482-268-3984,27,Stanford,Entrepreneurship
+192,Neil Clayton,ECE4F7F0-44F1-7D90-19F2-7CADFC3950D2,placerat@eleifendegestasSed.co.uk,734-3349 Consectetuer Rd.,Campitello di Fassa,31363,665-9055,22,"University of California, Santa Cruz",Entrepreneurship
+193,Lane Middleton,BCA01B17-C74D-CD1B-E266-1033BE2543B6,Mauris.ut@sem.edu,"P.O. Box 678, 1654 Gravida Avenue",Quinte West,86604,649-0171,19,"University of California, Riverside",Web Development
+194,Cameron Whitfield,97C483E9-9E85-CBD8-3ED9-63D294D1D4BD,commodo.hendrerit.Donec@amet.co.uk,Ap #584-1326 Quisque Street,Santa Croce sull'Arno,81043,1-913-606-0253,26,San Francisco State University,Artificial Intelligence
+195,Kennan Stevenson,7924E5D1-59E9-C1B6-1ABA-3D180BF1A041,gravida@lacus.net,"P.O. Box 800, 2905 Metus Av.",Vallentuna,57573,1-160-713-3556,17,"University of California, Davis",Web Development
+196,Phillip Walter,3470D7F4-6509-9F0F-CF56-1407BEEACC93,eu.turpis@metus.org,Ap #487-6645 Aliquam Rd.,Carapicuíba,35534,445-2486,19,Stanford,Artificial Intelligence
+197,Igor Anderson,81D579E2-57E7-D9FF-17E5-C70F1BD45238,Nulla.tincidunt.neque@velitCras.ca,Ap #502-7433 Erat Road,Paularo,15278,315-2288,26,Stanford,Machine Learning
+198,Palmer Gordon,9363CF8C-BD62-D4C6-4152-D8493016E44E,elit.pede@tellus.net,536-6181 In Street,Chicoutimi,34309,637-7395,19,San Jose State University,Entrepreneurship
+199,Ray Hinton,3ADB4DED-8006-5A14-36AB-9235D47B9B54,Etiam@non.edu,553-9444 Eu Rd.,Ranchi,58992,480-2626,28,"California State University, Fullerton",Artificial Intelligence
+200,Reece Leblanc,4D8671CD-FC96-E2D6-B1B4-3EE7B160B22D,ultrices.a.auctor@semconsequatnec.edu,357-3208 Accumsan St.,Canmore,19133,694-5547,17,"California State University, Bakersfield",Web Development
+201,Keane Cardenas,882A3098-C4E5-4197-CEC6-A5F9298ACE16,Mauris.eu.turpis@nibh.edu,Ap #712-5662 Magna Street,Avignon,52492,205-9545,17,San Jose State University,Web Development
+202,Malachi Tanner,5903B908-C962-2CDB-B10B-4D35425D3811,magnis.dis.parturient@atpedeCras.net,4708 Donec Av.,Calbuco,80359,738-0757,30,"California State University, Bakersfield",Entrepreneurship
+203,Ivan Tucker,DFBFD6A4-4027-6EC1-0663-779732EE60B1,tellus.imperdiet@Proinvelnisl.edu,"P.O. Box 976, 1992 Et Ave",Velden am Wörther See,19585,1-828-218-1363,30,San Jose State University,Network Security
+204,Asher Kane,63A52F4C-1BD6-6F16-3C83-4EB5482CD2DA,mattis.ornare@vehicula.org,Ap #174-9826 Massa Av.,Charsadda,78692,1-451-174-2787,29,"California State University, Fullerton",Network Security
+205,Kadeem Workman,9E84B809-D73B-C6D7-5D46-2A9135B045A7,Suspendisse.aliquet.molestie@infaucibus.co.uk,"P.O. Box 794, 3103 Venenatis Avenue",Belém,22491,1-599-764-0237,24,"University of California, Santa Cruz",Embedded Software
+206,Amos Middleton,AAA8C66C-1B68-A4A6-7638-8A54F70CD672,risus.odio.auctor@dui.edu,"P.O. Box 391, 7877 Aenean Av.",Independencia,10174,1-279-998-8048,23,"University of California, Riverside",Web Development
+207,August Winters,6D08D34A-A43E-02F2-94A1-56B42FEAF2E4,mi.enim@ultriciesadipiscingenim.ca,523-455 Metus Road,Boston,95714,1-880-821-1253,27,"University of California, Santa Cruz",Machine Learning
+208,Beck Melendez,00551756-3999-8DD4-A1E4-D68EE038C64B,Sed@gravidasagittisDuis.com,985-3347 Varius Street,Auldearn,58441,1-510-862-3412,18,"University of California, Davis",Entrepreneurship
+209,Sawyer Vinson,CF72E2B9-D11A-E6CF-632C-5902D55A2FDB,dui@odio.co.uk,7931 Ut Ave,El Bosque,16974,1-488-925-7214,17,San Jose State University,Embedded Software
+210,Xanthus Rasmussen,B4D45020-8277-A5EF-C49E-BE6A714CD467,arcu.Aliquam@tristiquealiquet.edu,Ap #116-3002 Arcu. St.,Rulles,17258,1-924-568-0165,17,San Jose State University,Network Security
+211,Ivor Henson,7322121A-2D49-FD78-60B9-7DE06D80A7C1,Nulla@nonbibendum.co.uk,Ap #895-4639 Lectus St.,Montrose,24057,1-526-929-6421,17,"University of California, Riverside",Artificial Intelligence
+212,Chadwick Johnson,F4D42D14-E7F9-73D4-4F57-7CCA0CC781D8,faucibus@Nuncsedorci.ca,318 Lorem. Ave,Allentown,21345,1-941-252-3478,29,Stanford,Web Development
+213,Nicholas Rice,90A8DF1C-137D-1CD2-FDB7-9411FC62E98E,ornare@odio.co.uk,Ap #116-1479 Nunc Street,Liberia,14482,1-369-156-3589,25,"University of California, Santa Cruz",Web Development
+214,Gannon Nelson,43888ADC-0D7D-66CA-A9D1-4F4E971F22D0,vehicula.Pellentesque.tincidunt@faucibusut.co.uk,416-4731 Suspendisse Rd.,Ancona,12876,850-5976,19,"California State University, Bakersfield",Network Security
+215,Justin Padilla,9996BBCB-AC7C-9A9E-21F6-30E9A61CEA9E,sed@Sedauctor.co.uk,425-632 Elit. Ave,Borghetto di Vara,36384,1-422-941-1312,25,Stanford,Web Development
+216,Wallace Marsh,C2D60B8C-39F7-8859-F984-CA4E2EC81F66,magnis.dis@anteVivamus.org,775-7788 Erat Street,Kruibeke,62085,893-4123,24,"University of California, Riverside",Machine Learning
+217,Emmanuel Ochoa,5CBB28D6-5906-B8C5-A12F-9A771D10C772,cursus.non@ornare.com,562-6130 Aliquam St.,Virelles,34130,583-6799,27,San Francisco State University,Embedded Software
+218,Basil Stafford,B2056327-18CB-78E2-12E4-90078A43CC79,Donec@tellus.net,Ap #145-7816 Vel Rd.,Bostaniçi,27781,153-0660,21,"University of California, Santa Cruz",Artificial Intelligence
+219,Geoffrey Odonnell,B06C39BE-0A9D-649F-62F8-CF31ECC29EA0,Proin.dolor.Nulla@iaculisquis.edu,8149 Etiam Rd.,Panketal,76727,760-8164,18,"University of California, Santa Cruz",Artificial Intelligence
+220,Griffin Spence,288D2CB2-57FB-57C1-2BB9-17ABD1461147,arcu.Vestibulum@mollisduiin.ca,"6821 Quis, Avenue",Patarrá,37038,422-5753,28,Stanford,Web Development
+221,Carl Huffman,A97A6484-0955-F267-0182-BDE292E70165,aliquam@quis.net,"P.O. Box 427, 954 Mollis Street",Moose Jaw,74319,231-2950,28,"University of California, Davis",Entrepreneurship
+222,Drake Craft,81D601CF-FBC0-E149-03BB-A0A8B22A0DE8,dui@euodio.org,"Ap #840-5407 Ut, Avenue",Biloxi,22430,1-385-173-1925,17,San Jose State University,Entrepreneurship
+223,Anthony Wiggins,F2543BAC-136F-49F1-F296-336DADA70B28,eu.odio.tristique@penatibus.net,168-2916 Et Av.,Chiauci,91475,884-1472,26,San Francisco State University,Web Development
+224,Odysseus Roth,B46BF96D-300E-CB03-CC96-ADE2EB0DBA26,Quisque.varius@Nullam.edu,"P.O. Box 842, 1372 A, Ave",Voronezh,75436,1-390-672-5550,25,"University of California, Santa Cruz",Artificial Intelligence
+225,Palmer Mejia,D845F781-6316-35EA-E3C0-216EFE80BF49,nec@et.co.uk,8159 Mi. Road,Musson,70684,345-2541,18,"University of California, Davis",Embedded Software
+226,Cadman Johns,1BF97ED2-7080-4150-B9AD-21B65533B22A,scelerisque.scelerisque@NullafacilisiSed.edu,318-9601 Tortor. Road,Cercemaggiore,79711,933-3706,23,"California State University, Fullerton",Artificial Intelligence
+227,Beau Duran,EE284B90-B57B-9F95-A2F3-73ABF737D8DE,eget.laoreet@interdumenimnon.net,3038 Nunc Rd.,Montpellier,44007,1-802-238-9017,23,Stanford,Artificial Intelligence
+228,Brody Walls,45AA3788-D83C-F00F-6EB3-3E989600C0A0,amet@ullamcorper.com,Ap #299-2186 Enim. Street,Thirimont,16135,259-2348,30,"University of California, Riverside",Network Security
+229,Michael Paul,1417CF27-4B10-5492-6FBF-A2FA151EAB20,mollis.nec@elitdictumeu.net,268-3191 Suspendisse St.,Chandler,89251,1-114-720-6750,23,"California State University, Fullerton",Web Development
+230,Axel Dennis,0D2ADAAE-4053-309A-F1A6-06FF308958C4,mattis.Cras.eget@gravidanuncsed.org,"P.O. Box 620, 5124 Id St.",Midway,61754,1-807-715-7276,18,"California State University, Bakersfield",Artificial Intelligence
+231,Guy Campbell,EE79963A-9EFB-BD3A-D579-41B538E1E9D3,vestibulum.Mauris@odiosagittissemper.org,"P.O. Box 140, 3283 Tristique St.",Clydebank,94540,1-885-821-2306,20,"California State University, Fullerton",Network Security
+232,Burke Mcgowan,698FFA37-95BB-12CF-CC1A-5AD0F85EA6FE,sagittis@in.org,407-869 Ligula. St.,Alexeyevka,81852,588-4152,24,"California State University, Fullerton",Artificial Intelligence
+233,Marsden Small,BB93D9C6-F3B5-595F-17B8-7716376885D2,dolor@Phaselluselitpede.edu,Ap #130-3805 Laoreet Av.,Auvelais,43751,1-623-157-7080,29,"California State University, Bakersfield",Embedded Software
+234,Gabriel Goodwin,58431DE9-EEFA-C9D4-E33E-5E6A47649198,non@sollicitudinadipiscingligula.ca,Ap #982-3742 At Avenue,Ghizer,84641,1-458-652-1887,28,"California State University, Fullerton",Machine Learning
+235,Keith Oneil,06917733-5538-8804-76CA-1F01440AFCF3,et@egetodioAliquam.co.uk,"Ap #772-6919 Non, Rd.",Avelgem,35925,1-602-811-6102,23,"University of California, Riverside",Artificial Intelligence
+236,Ryder Franklin,0A617322-DBF2-5067-9403-482B268F1889,vulputate.nisi@euodioPhasellus.net,"P.O. Box 542, 1382 Erat Avenue",Rockhampton,30255,1-126-412-9511,26,"University of California, Riverside",Entrepreneurship
+237,Drake Allen,6411FC8F-CC75-6489-BB4A-727869858F13,libero.mauris.aliquam@Fuscealiquam.edu,1680 Diam St.,Carapicuíba,59872,1-860-999-0734,28,San Jose State University,Artificial Intelligence
+238,Ivor Porter,D86D66C2-4D7D-FC1E-E86E-8097B91EE771,quam.a@sedconsequatauctor.ca,149-1559 Malesuada St.,Badajoz,71588,1-891-194-8181,29,"California State University, Fullerton",Embedded Software
+239,Abel Walker,395832F1-2649-7FE3-8C09-5F43E126F1D3,Proin.vel.arcu@Pellentesqueutipsum.co.uk,Ap #625-5794 Lorem St.,Reno,18213,707-7835,19,"University of California, Santa Cruz",Entrepreneurship
+240,Bernard Atkins,3C793F3F-D195-8355-E3F0-FAA501959847,Curabitur@at.net,7233 Blandit St.,Stade,93821,190-3974,21,"California State University, Fullerton",Machine Learning
+241,Lawrence Workman,4497F565-C229-0D01-6689-9BF4B9E5BF43,Donec@temporest.com,3155 Sagittis Avenue,Borsbeek,60002,626-2427,24,San Jose State University,Network Security
+242,Vaughan England,CFCE8661-C206-E317-29A8-ECA512849F4E,libero.dui.nec@idenimCurabitur.co.uk,"P.O. Box 954, 388 Ac, Rd.",Ramagundam,47306,748-9034,23,Stanford,Entrepreneurship
+243,Dominic Washington,8330B47B-9CA2-1E4F-DAF4-D3FBFE971DDE,mattis.Cras@egestashendreritneque.com,Ap #883-4888 Etiam Road,Freital,75428,481-6489,30,San Jose State University,Entrepreneurship
+244,Byron Adkins,9AA57F25-0D98-C47E-A7D6-BB45F882334E,Maecenas.malesuada@anteiaculisnec.ca,664 Velit Rd.,Wels,23022,1-137-422-7434,21,"California State University, Fullerton",Embedded Software
+245,Colorado Rojas,052310D5-D888-8E35-0DB3-CED6063CA7A3,Sed.et.libero@aauctornon.ca,Ap #798-9723 Orci St.,Avernas-le-Bauduin,96880,1-702-210-0855,29,"California State University, Bakersfield",Web Development
+246,Dylan Cline,AE1CE707-9E08-579C-3336-F8BD4239C1F1,justo.nec@vulputate.net,Ap #769-7791 Quisque St.,Genzano di Lucania,41303,1-963-741-2565,24,"University of California, Davis",Web Development
+247,Calvin Montoya,4B2ED6EC-4519-9A1D-4C0B-369D4095BE23,fermentum.convallis@Quisqueporttitoreros.com,5078 Libero Rd.,Killa Saifullah,97762,1-289-326-9921,29,San Francisco State University,Web Development
+248,Hiram Kirby,384C0350-683D-C48F-E6B3-1CE0F541AEA1,non@Cras.org,1127 Suspendisse Street,Tiel,25609,621-5936,19,"University of California, Riverside",Artificial Intelligence
+249,Matthew Lopez,9E7BA454-71DE-8113-17EF-5E6059729E62,nonummy@quisdiam.org,549-4356 Dignissim. Road,Rocky Mountain House,43942,858-7698,29,"University of California, Davis",Artificial Intelligence
+250,Barclay Velasquez,1498CFC8-4DE6-14B9-5A90-6E21BAF103F0,semper.et@consequat.edu,6196 Feugiat Road,Pero,42956,295-6816,23,"California State University, Bakersfield",Web Development
+251,Holmes Head,7B5E60CD-8DD5-1971-5B29-C2315BDF9063,consequat.lectus.sit@ridiculusmusAenean.net,Ap #175-7039 Egestas. Av.,Acquafondata,78377,520-7603,23,San Francisco State University,Embedded Software
+252,Bernard Cardenas,49D8D344-33E3-3A13-276D-798CE05F7A54,felis.adipiscing@cursusluctus.org,"P.O. Box 381, 998 Ridiculus Street",Bierk Bierghes,21628,196-1330,30,San Francisco State University,Machine Learning
+253,Dillon Howard,13F6789E-3F3E-C28A-C202-6AD363580C2D,ridiculus.mus.Aenean@diamProindolor.org,1911 Vestibulum Avenue,Kotlas,86170,1-850-764-8303,20,Stanford,Entrepreneurship
+254,Orson Shepherd,19733DEB-8BD6-DEBE-0A0C-78D88D614153,Donec.nibh.enim@utmolestie.co.uk,Ap #295-9443 Lacinia Avenue,Pukekohe,34270,680-3037,29,Stanford,Embedded Software
+255,Bruce Ryan,35A2C7F4-9056-CE7B-3989-F18218B9893C,ac@non.com,"P.O. Box 116, 9158 Dolor Ave",Kiel,85504,1-641-564-8370,17,San Francisco State University,Artificial Intelligence
+256,Hunter Joseph,47BE05B0-33E7-7E37-763F-30CC5B2049AC,vel@neccursusa.edu,1287 Ligula St.,Arequipa,33740,1-341-219-5916,19,"California State University, Fullerton",Web Development
+257,Hamilton Cole,4CED72BB-3294-F60C-A553-22A57B9CAF98,ut.molestie@Vivamussitamet.net,"867-7733 Non, Rd.",Retiro,14478,431-9581,22,San Francisco State University,Network Security
+258,Kibo Vargas,52C4AF91-269B-A414-FE16-5ECD19D29F47,amet.consectetuer@Sednecmetus.net,382-5243 Commodo Street,Karabash,19321,1-322-826-8889,21,San Jose State University,Web Development
+259,Thane Spencer,B9840E67-FACE-54FA-7A8A-0D8871E4AA2C,dolor.egestas.rhoncus@Proinvel.ca,Ap #523-8930 Metus. Ave,Alassio,11408,1-796-860-9378,21,Stanford,Artificial Intelligence
+260,Elijah Kirby,0D983BB7-900C-8DFA-1232-A25B6A05D18D,in.tempus@risus.ca,"4283 Et, Rd.",Aulnay-sous-Bois,88026,146-7874,19,San Jose State University,Embedded Software
+261,Jermaine Rosales,22C53660-3BF6-A7B8-F20B-07FB1877BD73,eget.ipsum@litoratorquentper.ca,282-2251 Integer St.,Kemerovo,74611,305-5835,25,"University of California, Santa Cruz",Web Development
+262,Preston Nelson,DD32C27B-BDCD-AF38-FAC0-91F6A2BFD22C,ultrices@anteMaecenasmi.co.uk,697-826 Semper Rd.,Vilna,30034,1-705-270-1049,21,"University of California, Davis",Entrepreneurship
+263,Coby Rios,1E2B1472-4D37-0C99-1259-2E3C9CBD9AAC,varius@vel.ca,"P.O. Box 474, 8190 Posuere, Rd.",Lima,73230,1-315-426-1156,17,San Jose State University,Network Security
+264,Logan Dickerson,D838904A-6222-C4F6-0318-4CBAED0AC1D7,ligula.Donec.luctus@in.net,Ap #103-9395 Mauris Rd.,Stokkem,79225,1-135-463-8330,23,"University of California, Davis",Entrepreneurship
+265,Thaddeus Roy,D1E06296-7B94-0B39-C9C7-B6CB32551897,ac@placerat.edu,373-1274 Mattis Street,Hualaihué,39815,1-787-183-2668,28,"University of California, Davis",Artificial Intelligence
+266,Colby Dickerson,9A19D7A5-1FD4-6D15-31AD-0D5763E64EF4,risus.a@lobortis.org,"P.O. Box 967, 2819 Sed Av.",Ham-sur-Sambre,97213,1-731-198-5137,21,"University of California, Santa Cruz",Embedded Software
+267,Derek Crane,40A92844-FFBE-3BCD-F596-FC45FD983795,fermentum.arcu@sem.co.uk,"9917 Ut, Av.",Dunfermline,42113,1-221-416-2333,29,"University of California, Riverside",Entrepreneurship
+268,Holmes Robbins,612FAF02-1F1F-6235-C57B-3510E08BAD22,malesuada.vel.venenatis@vitae.org,9637 Curabitur Street,Kerkhove,89024,458-0735,28,"University of California, Santa Cruz",Machine Learning
+269,Patrick Harmon,981607C0-627A-DF86-38D2-CBED01CE8121,nascetur.ridiculus.mus@lobortisquis.org,"P.O. Box 411, 6109 Nisi. St.",Vicoli,44790,1-822-588-0286,17,"California State University, Bakersfield",Embedded Software
+270,Ronan Wilkins,EA9D363A-A0B5-FC63-AB7B-D5A4F6ACB32E,metus.In.nec@malesuadautsem.co.uk,"P.O. Box 412, 7861 Dolor. Street",Puerto Montt,38023,1-682-399-8186,19,"University of California, Santa Cruz",Machine Learning
+271,Nigel Grimes,CC1A3F0E-3DE0-152A-1429-262C05B4B83E,sagittis@enimnec.net,"P.O. Box 346, 4227 Aliquam Rd.",Oyen,90837,743-9895,27,"University of California, Santa Cruz",Embedded Software
+272,Galvin Jimenez,F468CFD1-2C5C-D714-FA44-DBA632E6FB3B,libero.Donec@Donecnon.com,"P.O. Box 771, 8483 Non, Avenue",Bhagalpur,36159,1-241-617-7838,21,Stanford,Artificial Intelligence
+273,Gavin Mayer,4B6656DA-8036-7462-D10F-2FF0AA78F934,egestas.hendrerit@consequat.edu,706-2131 Fringilla St.,Halifax,11127,1-531-371-5748,22,"University of California, Davis",Network Security
+274,Benjamin Meyers,9A6E38AD-4BDA-4813-4FCD-C4E38D17E75D,nunc@lectuspedeet.ca,9861 Non Rd.,Aurora,57761,927-7666,30,Stanford,Web Development
+275,Rafael Wiggins,F08F6CEB-2FE4-C307-658C-B1F45BB819A9,mauris.eu.elit@Integer.co.uk,533-9599 Vivamus St.,Irricana,95096,1-974-666-2675,28,"California State University, Fullerton",Embedded Software
+276,Mason Wright,C764B9EC-FF89-6404-CD7A-C6763326B766,eu.ligula.Aenean@sitametrisus.org,4085 Lobortis Road,Saravena,63074,316-2817,29,"California State University, Bakersfield",Artificial Intelligence
+277,Myles Wall,57124998-D8CE-348C-1820-250A5410CB46,et@infelisNulla.co.uk,"P.O. Box 736, 2077 Dictum Av.",Morrovalle,16604,123-3813,28,San Francisco State University,Artificial Intelligence
+278,Timon Hess,11DDC421-EC2D-9E1F-64BD-99F9B53A520C,placerat.Cras.dictum@eu.net,Ap #674-7945 Fringilla Street,Mannekensvere,76529,1-762-701-8125,25,"University of California, Santa Cruz",Machine Learning
+279,Caesar Johnston,3FA3D9D7-2DB9-6C73-61A9-F29B75BA020C,mi.fringilla@laciniamattis.edu,Ap #141-3319 Ut Avenue,Lives-sur-Meuse,15825,1-470-720-0466,24,"University of California, Riverside",Network Security
+280,August Wilkinson,8FEB3C5B-A512-CBF7-C534-E2644ACC680F,eu@libero.net,"930-3319 Sed, St.",Stony Plain,55654,1-403-656-2716,27,"California State University, Bakersfield",Network Security
+281,Mohammad Church,D1D0A05E-FBEA-975D-3E29-95935867F3CD,aliquet@eratnequenon.com,"5531 Ut, Road",Medan,63858,1-311-852-1830,25,"University of California, Santa Cruz",Entrepreneurship
+282,Hector Hall,10E4FAAC-8D42-AE36-1CA1-FFAC778D25E8,facilisis.eget.ipsum@Nam.co.uk,477-6964 Proin Ave,Castel Guelfo di Bologna,38344,1-968-649-9042,26,"University of California, Riverside",Artificial Intelligence
+283,Honorato Payne,D2F4BCE2-36FD-10A2-C54E-233711FB4CB1,eget.metus.In@tristiquesenectuset.org,"P.O. Box 968, 6943 Diam. Av.",Dendermonde,16604,320-0425,26,"California State University, Bakersfield",Network Security
+284,Zane Camacho,85EB1AE8-D521-FEC7-F2CE-BC028D77D7C0,amet.massa@tellusAenean.co.uk,Ap #342-8244 Leo. Ave,St. Paul,27385,626-4711,25,"California State University, Bakersfield",Entrepreneurship
+285,Fuller Ferguson,0847BDA3-96B5-BD44-265E-8775749D59EB,est.Mauris@felisDonec.com,998-6415 Ipsum Avenue,Cuceglio,30831,194-3188,27,San Jose State University,Artificial Intelligence
+286,Elton Knox,7FF59400-C33B-9C40-D055-4289173BB90C,quam@odioEtiamligula.org,348-1254 Nunc St.,Stilo,46741,140-7595,18,Stanford,Artificial Intelligence
+287,Mason Mcdonald,A9B07DE6-4DE4-7062-E9CC-362AA9B7F84D,rutrum.lorem@Uttincidunt.co.uk,"P.O. Box 160, 8449 Pellentesque Rd.",Nordhorn,36955,960-5197,25,San Jose State University,Embedded Software
+288,Jonas Gray,341C9CFB-E1B6-41E8-D389-AD8446E286E9,amet.luctus.vulputate@in.co.uk,"P.O. Box 911, 2741 Penatibus Rd.",Sambalpur,28451,1-676-522-6550,24,Stanford,Network Security
+289,Hayden Leonard,6806CF3F-7782-A6C4-CACC-41FF8E3446D5,auctor.nunc@ornareegestas.ca,550-4093 Dictum Rd.,Wels,96576,1-190-745-4035,29,"California State University, Fullerton",Artificial Intelligence
+290,Vincent Cole,4F9E0DDE-3544-E1AF-62D9-F972F4E30C7A,felis.eget@a.net,Ap #478-9336 Ac Avenue,Rajanpur,54049,524-5790,30,"University of California, Davis",Entrepreneurship
+291,Hector Holder,5A22A7CA-DBEB-0C67-1C27-DED2707F07D1,dignissim.pharetra.Nam@dolor.co.uk,Ap #861-5305 Auctor Road,Uribia,69690,123-9141,19,"University of California, Riverside",Web Development
+292,Caldwell Downs,D90000D1-2104-31EC-CD33-5B1B407A7B8A,purus.Nullam@Integervulputate.edu,6587 Turpis St.,Lincoln,19613,594-1300,18,Stanford,Embedded Software
+293,Coby Key,585AF4A8-8604-6E04-D4F6-E785073F5066,sit.amet@commodohendreritDonec.ca,"P.O. Box 808, 6542 Lobortis Avenue",Orsogna,54692,724-6153,18,San Francisco State University,Machine Learning
+294,Connor Church,0EB0EBF6-8C3E-D781-C499-8CF6BE5C4598,nunc@tempuslorem.edu,991-7439 Quis Ave,Garzón,33306,1-996-486-8703,22,San Jose State University,Artificial Intelligence
+295,Randall Soto,F7A69943-6BC8-2F00-3A8D-0DC45FDDF7A0,vitae.dolor.Donec@nonleo.co.uk,"Ap #488-2099 At, Avenue",Jodoigne,25650,125-8641,21,Stanford,Embedded Software
+296,Len Mueller,6CDBDF57-8912-1D64-4544-7E86CA68BB42,neque.pellentesque.massa@venenatisa.org,Ap #480-2726 Magna. Road,Firozabad,51027,309-6928,17,"California State University, Bakersfield",Network Security
+297,Blake Terry,D27F6440-7ECC-71D8-5374-C621867409ED,enim.Nunc.ut@lacuspedesagittis.org,"Ap #161-5933 Iaculis, Street",Carahue,46318,637-8440,21,"California State University, Bakersfield",Network Security
+298,Thor Ratliff,8A2C2C98-059D-883E-4A8A-3AE1DA1269D5,tellus.sem.mollis@luctusvulputate.org,"P.O. Box 313, 1163 Etiam Road",Klabbeek,77523,1-770-266-7320,24,"California State University, Bakersfield",Network Security
+299,Zephania Garrison,1D43E1AE-28C9-1613-8D13-64E8DB4A6699,amet.consectetuer.adipiscing@aliquet.org,313-1903 Vulputate St.,Uitkerke,81321,1-444-846-3153,18,Stanford,Network Security
+300,Brett Montgomery,0C201787-F7D9-DE4A-927F-6DF0FCF7AFE6,eros@mattisInteger.co.uk,2141 Purus Ave,Grand Island,57425,606-0448,24,"California State University, Fullerton",Web Development
