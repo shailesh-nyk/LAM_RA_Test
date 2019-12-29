@@ -1,5 +1,16 @@
 # LAM_RA_Test
 
+## About
+Simple client (React) server(Node) to 
+1. Display data from SOLR db onto the frontend
+2. Monitor Node and SOLR services  
+* Used node's child-process module to execute scripts that will start/stop server
+* Used socket.io to notify client with the status every given interval of time.
+* Maintaining local log files to display to the user
+* Used express-status-monitor to display server metrics of NodeJS server being monitored
+
+
+
 ## Step 1 -- Install SOLR
 Use the below link for instructions on how to install SOLR DB in your machine
 https://computingforgeeks.com/install-latest-apache-solr-on-ubuntu-debian/
