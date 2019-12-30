@@ -30,7 +30,7 @@ class Monitor extends Component {
         </div>
         ):(
             <div>
-            <div className="s-header">Service Monitoring</div>
+            <div className="s-header s-box-shadow1">Service Monitoring</div>
             <div className="d-flex p-5 justify-content-center">
                 {this.state.data.map(server => {
                     return (
@@ -47,6 +47,9 @@ class Monitor extends Component {
                                 </div>
                                 <div class="s-monitor-details">
                                     <span>Active:</span><span>{server.active.toString().toUpperCase()}</span> 
+                                </div>
+                                <div class="s-monitor-details">
+                                    <span>{server.active ? 'Active since' : 'Last active'}:</span><span>{server.activeTime}</span> 
                                 </div>
                                 <div className="s-monitor-card-actions mt-5">
                                     {server.active ?

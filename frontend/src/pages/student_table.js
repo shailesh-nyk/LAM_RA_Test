@@ -23,7 +23,7 @@ class StudentTableComponent extends Component {
             </div>
           :
           <div>
-            <div className="s-header">SJSU Hackathon - Registration List</div>
+            <div className="s-header s-box-shadow1">SJSU Hackathon - Registration List</div>
             <div className="s-student-table table-responsive" style={{ width: "90%" }}>
               <table id="student-registration" class="table table-striped table-bordered">
                   <thead>
