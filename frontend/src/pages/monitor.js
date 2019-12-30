@@ -39,7 +39,15 @@ class Monitor extends Component {
                                 {server.name}
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Host : {server.host} <br /> Port : {server.port} <br /> Active: {server.active.toString()}</h5>
+                                <div class="s-monitor-details">
+                                    <span>Host:</span><span>{server.host}</span> 
+                                </div>
+                                <div class="s-monitor-details">
+                                    <span>Port:</span><span>{server.port}</span> 
+                                </div>
+                                <div class="s-monitor-details">
+                                    <span>Active:</span><span>{server.active.toString().toUpperCase()}</span> 
+                                </div>
                                 <div className="s-monitor-card-actions mt-5">
                                     {server.active ?
                                         <button class="btn btn-secondary" disabled="true"> Start</button>

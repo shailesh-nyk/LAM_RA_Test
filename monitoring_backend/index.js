@@ -29,18 +29,21 @@ app.use(function (req, res, next) {
 var server = require('http').Server(app);
 var io = require('socket.io')(server);
 app.set('socketio', io);
+var interval;
 
 io.on('connection', function (socket) {
+    if(interval) {
+        clearInterval(interval);
+    }
     socket.on('openSocket', function (id) {
       console.log("------------------------");
       console.log(`Socket ${socket.id} connected.`);
       console.log("------------------------");
       io.emit('status');
-      setInterval(() => {
+      interval = setInterval(() => {
          io.emit('status');
-      }, 30000)
+      }, constants.STATUS_CHECK_INTERVAL)
    });
-  
    socket.on('disconnect', function(){
       console.log("------------------------");   
       console.log(`Socket ${socket.id} disconnected.`);
@@ -53,7 +56,6 @@ const port = process.env.PORT || 3001;
 server.listen(port, () => {
    console.log(`Listening on ${port}...`)
 })
-
 //ENDPOINTS
 app.get('/api/', (req, res) => {
     res.send("Welcome!!!");
