@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "express-server-status": "^1.0.3",
     "express-status-monitor": "^1.2.7",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.3",
     "solr-client": "^0.7.1",
